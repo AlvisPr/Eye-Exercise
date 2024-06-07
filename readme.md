@@ -1,4 +1,4 @@
-# Eye Movement Simulation
+# Eye Movement Exercise
 
 ## Description
 This project simulates the movement of eyes following the cursor on the screen. It uses HTML, CSS, and JavaScript to create a pair of eyes that move in sync with the mouse pointer, giving the illusion of watching the cursor.
